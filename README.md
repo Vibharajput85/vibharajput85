@@ -1,5 +1,5 @@
 ### Hola 👋, I am Vibha 
-####** I am student ,Undergraduate and Coding enthusiast !**
+#### I am student ,Undergraduate and Coding enthusiast !
 
 Skills: C++/C/python/ JS / HTML / CSS/Data structures and algorithm 
 
